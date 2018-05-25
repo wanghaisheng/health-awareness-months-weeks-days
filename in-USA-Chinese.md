@@ -26,6 +26,11 @@
 
 这是一个重要的健康意识月，周和日期的日历：
 
+#What is LaTeX?
+
+正确的链接方式是
+
+[What is LaTeX?](#what-is-latex)
 
 <a href="#1"># 一月</a>
 
