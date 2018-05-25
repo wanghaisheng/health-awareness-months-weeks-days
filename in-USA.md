@@ -25,7 +25,7 @@ Awareness months, weeks, and days are important because they allow people with c
 
 Here is a calendar of major health awareness months, weeks, and days:
 
-January
+# January
 
 
 -----------
@@ -40,7 +40,7 @@ January
 *   National [Folic Acid](/health/food-nutrition/folate-folic-acid) Awareness Week (first full week of January)
 *   National Drug and Alcohol Facts Week (last week of January)
 
-February
+# February
 
 
 ------------
@@ -59,7 +59,7 @@ February
 *   Give Kids a Smile Day (February 5)
 *   National Donor Day (February 14)
 
-March
+# March
 
 
 ---------
@@ -90,7 +90,7 @@ March
 *   World [Tuberculosis](/health/tuberculosis) Day (March 24)
 *   Tsunami Preparedness Week (March 27-April 2)
 
-April
+# April
 
 
 ---------
@@ -127,7 +127,7 @@ April
 *   World [Meningitis](/health/meningitis) Day (April 24)
 *   Every Kid Healthy Week (last week of April)
 
-May
+# May
 
 
 -------
@@ -177,7 +177,7 @@ May
 *   Heat Safety Awareness Day (May 27)
 *   World No Tobacco Day (May 31)
 
-June
+# June
 
 
 --------
@@ -201,7 +201,7 @@ June
 *   National Lightning Safety Awareness Week (June 19-25)
 *   World Sickle Cell Day (June 19)
 
-July
+# July
 
 
 --------
@@ -212,7 +212,7 @@ July
 *   National Cleft & Craniofacial Awareness & Prevention Month
 *   World [Hepatitis](/health/hepatitis) Day (July 28)
 
-August
+# August
 
 
 ----------
@@ -226,7 +226,7 @@ August
 *   Gastroparesis Awareness Month
 *   Contact Lens Health Week (August 22-26)
 
-September
+# September
 
 
 -------------
@@ -274,7 +274,7 @@ September
 *   Sport Purple for Platelets Day (September 30)
 *   Polycystic Ovary Syndrome ([PCOS](/health/polycystic-ovary-disease)) Month
 
-October
+# October
 
 
 -----------
@@ -315,7 +315,7 @@ October
 *   Red Ribbon Week (October 23-31)
 *   World [Psoriasis](/health/psoriasis) Day (October 29)
 
-November
+# November
 
 
 ------------
@@ -341,7 +341,7 @@ November
 *   International Survivors of Suicide Day (November 19)
 *   National Family Health History Day (November 24)
 
-December
+# December
 
 
 ------------
